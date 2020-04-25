@@ -7,6 +7,7 @@ namespace Common_Types_Lists
     {
         static void Main()
         {
+            // ===== Practice:  Planets =====
             List<string> planetList = new List<string>(){
                 
                 "Mercury", "Mars"
@@ -32,13 +33,13 @@ namespace Common_Types_Lists
             planetList.Add("Pluto");
 
             // Now that all the planets are in the list, slice the list using GetRange() in order to extract the rocky planets into a new list called rockyPlanets. The rocky planets will remain in the original planets list.
-
-            
-
+            List<string> rockyPlanets = planetList.GetRange(0, 4);
 
             // Being good amateur astronomers, we know that Pluto is now a dwarf planet, so use the Remove() method to eliminate it from the end of planetList.
+            planetList.Remove("Pluto");
 
             planetList.ForEach(planet => Console.WriteLine(planet));
+            rockyPlanets.ForEach(planet => Console.WriteLine(planet));
         }
     }
 }
