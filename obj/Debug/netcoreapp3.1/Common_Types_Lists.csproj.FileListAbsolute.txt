@@ -1,0 +1,12 @@
+/Users/caroline/workspace/CSharp/Common_Types_Lists/bin/Debug/netcoreapp3.1/Common_Types_Lists.deps.json
+/Users/caroline/workspace/CSharp/Common_Types_Lists/bin/Debug/netcoreapp3.1/Common_Types_Lists.runtimeconfig.json
+/Users/caroline/workspace/CSharp/Common_Types_Lists/bin/Debug/netcoreapp3.1/Common_Types_Lists.runtimeconfig.dev.json
+/Users/caroline/workspace/CSharp/Common_Types_Lists/bin/Debug/netcoreapp3.1/Common_Types_Lists.dll
+/Users/caroline/workspace/CSharp/Common_Types_Lists/bin/Debug/netcoreapp3.1/Common_Types_Lists.pdb
+/Users/caroline/workspace/CSharp/Common_Types_Lists/obj/Debug/netcoreapp3.1/Common_Types_Lists.csprojAssemblyReference.cache
+/Users/caroline/workspace/CSharp/Common_Types_Lists/obj/Debug/netcoreapp3.1/Common_Types_Lists.csproj.CoreCompileInputs.cache
+/Users/caroline/workspace/CSharp/Common_Types_Lists/obj/Debug/netcoreapp3.1/Common_Types_Lists.AssemblyInfoInputs.cache
+/Users/caroline/workspace/CSharp/Common_Types_Lists/obj/Debug/netcoreapp3.1/Common_Types_Lists.AssemblyInfo.cs
+/Users/caroline/workspace/CSharp/Common_Types_Lists/obj/Debug/netcoreapp3.1/Common_Types_Lists.dll
+/Users/caroline/workspace/CSharp/Common_Types_Lists/obj/Debug/netcoreapp3.1/Common_Types_Lists.pdb
+/Users/caroline/workspace/CSharp/Common_Types_Lists/obj/Debug/netcoreapp3.1/Common_Types_Lists.genruntimeconfig.cache
